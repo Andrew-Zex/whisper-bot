@@ -1,4 +1,4 @@
 # whisper-bot
 Coming soon
 
-work in progreaa
+work in progress
